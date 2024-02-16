@@ -2,7 +2,7 @@ let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
 let numeroMaximo = 10;
-alert('Nashe te amo bby, claro que se puede ser programador sin Universidad te falta barrio'
+alert('Nashe te amo bby, claro que se puede ser programador sin Universidad te falta barrio');
 function asignarTextoElemento(elemento, texto) {
     let elementoHTML = document.querySelector(elemento);
     elementoHTML.innerHTML = texto;
